@@ -1,0 +1,123 @@
+
+
+body{
+    background-color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+header{
+    background-color: bisque;
+    width: 100%;
+    height: 5em;
+    text-align: center;
+ 
+    
+}
+
+nav{
+    background-color: rgb(162, 162, 208);
+    width: 100%;
+    height: 10vh;
+    text-align: center;
+    margin-bottom: 10px;
+ 
+}
+
+
+.nav1{
+    background-color: rgb(84, 112, 112);
+    width: 75%;
+    height: 10vh;
+    float: right;
+     margin-bottom: 10px;
+
+}
+.container1{
+    /* background-color: rgb(238, 155, 155); */
+    float: right;
+     display: flow-root;
+    
+    width: 75%;
+    height:55vh;
+}
+
+
+
+main {
+    overflow: hidden;
+}
+
+.nav2{
+    float: right;
+   background-color: rgb(139, 139, 218);   
+    width: 29%;
+   height: 55vh;
+   margin-left: 1%;
+}
+
+.cuerpo1{
+    background-color: rgb(218, 139, 210);
+   
+    float: right;
+       width: 70%;
+    height: 55vh;
+   
+
+   
+
+}
+
+aside{
+    float: left;
+ 
+ 
+     width: 24%;
+    height: 65vh;
+    background-color: rgb(233, 233, 100);
+}
+
+
+
+footer{
+    background-color: bisque;
+    height:6vh;
+    width: auto;
+}
+
+/* @media screen and (max-width: 700px) {
+
+    body {
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    header,
+    nav,
+    .nav1,
+    .container1,
+    .nav2,
+    .cuerpo1,
+    aside,
+    footer {
+        width: 100%;
+        float: none;
+    }
+
+    .container1 {
+        height: auto;
+    }
+  .nav2 {
+        margin-left: 0;
+       
+    }
+
+   
+    .nav1,
+    .nav2,
+    .cuerpo1,
+    aside {
+        height: auto;
+          min-height: 100px;
+    }
+
+} */
