@@ -9,6 +9,9 @@ body{
       font-family: "Bricolage Grotesque", sans-serif;
 }
 
+img:not([alt]){
+    border: 3px solid red;
+}
 .container1{
     background-color: #FBF4E8 ;
     width: 100%;
