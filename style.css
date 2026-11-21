@@ -53,6 +53,7 @@ nav{
     padding-right: 40px;
     
     border-radius: 30px;
+    box-shadow: 5px 10px 0 rgba(84, 84, 84, 0.312);
 }
 
 nav ul{
